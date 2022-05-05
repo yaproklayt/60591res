@@ -395,7 +395,7 @@ span.price:empty::after {
   cursor: default;
 }
 
-.banner {
+.banner{
   display: flex;
   justify-content: center;
   align-items: center;

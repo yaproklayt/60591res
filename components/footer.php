@@ -1,10 +1,10 @@
-<footer class="site-footer">
+    <footer class="site-footer">
       <div class="container">
-        <p class="copyright">© Кекс, 2020</p>
+        <p class="copyright">© Кекс, 2019</p>
         <ul class="navigation-list">
           <li><a href="catalog.php">Каталог</a></li>
-          <li><a href="delivery.php">Доставка</a></li>
-          <li><a href="cart.php">Корзина</a></li>
+          <li><a href="delivery.html">Доставка</a></li>
+          <li><a href="contacts.html">Контакты</a></li>
         </ul>
         <ul class="social-list">
           <li>
@@ -27,4 +27,3 @@
     </footer>
   </body>
 </html>
-
